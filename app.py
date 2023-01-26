@@ -21,4 +21,4 @@ st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Open
 st.sidebar.caption("Streamlit App by </Shahnab>")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://lohitkavuru14-anpr-yolov7.hf.space", width=1100, height=650, scrolling=True)
+st.components.v1.iframe("https://shad0ws-information-extraction-with-chat-c0a48ea.hf.space", width=1100, height=650, scrolling=True)
